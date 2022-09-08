@@ -246,6 +246,10 @@ textarea{
     border-radius: 5px; 
 
 }
+.text-margin{
+    margin: 30px;
+    
+}
 .img-left{
     float: left;
 }
