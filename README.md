@@ -7,7 +7,8 @@ GIF de demonstração:
 
 ## 📲 Link do deploy
 
-Use a aplicação em [[Link do deploy](https://venerable-dusk-d64793.netlify.app/)] 
+Use a aplicação em [[Link do deploy](https://venerable-dusk-d64793.netlify.app/)] <br>
+> **OBS:** o site ainda nao esta responsivo, mais ja tem algumas animações nos botões, conforme eu for aprendendo vou atualizando e colocando na seção **📆 Implementações futuras e melhorias**
 ## 📑 Sobre o projeto
 
 Qual o intuito do projeto? Foi realizado como estudos, no curso de HTML e CSS do Mestre Daniel Tapias fizemos um clone de um site chamado Strata
