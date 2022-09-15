@@ -5,6 +5,9 @@ GIF de demonstração:
 
 ![Gif readme](https://user-images.githubusercontent.com/30334760/190202887-6a4f9ae9-2848-4ff3-bd73-da4967bed701.gif)
 
+## 📲 Link do deploy
+
+Use a aplicação em [[Link do deploy](https://venerable-dusk-d64793.netlify.app/)] 
 ## 📑 Sobre o projeto
 
 Qual o intuito do projeto? Foi realizado como estudos, no curso de HTML e CSS do Mestre Daniel Tapias fizemos um clone de um site chamado Strata
